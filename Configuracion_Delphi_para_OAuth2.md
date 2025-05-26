@@ -4,7 +4,7 @@
 
 # Instalar librerías necesarias
 
-1. En "jwt.io", selecciona Delphi y copia la ruta de la librería en gitHub.
+1. En el siguiente repositorio se encuntra la libreria necesaria: ["JOSE"](https://github.com/paolo-rossi/delphi-jose-jwt).
 
 2. Instala la librería "jwt" en Delphi.
 
